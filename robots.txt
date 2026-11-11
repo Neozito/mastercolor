@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.tintasmastercolor.com.br/sitemap.xml
